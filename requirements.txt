@@ -1,0 +1,7 @@
+pyttsx3 == 2.98
+SpeechRecognition == 3.14.0
+PyAutoGUI == 0.9.54
+opencv-python == 4.10.0.84
+numpy == 2.2.1
+scikit-learn == 1.5.2
+pillow == 11.1.0
